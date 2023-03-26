@@ -1,0 +1,1 @@
+A ideia e fazer um site para meu portifolio e futuras ideias

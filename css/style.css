@@ -1,0 +1,66 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color:  rgb(12, 12, 12);
+    color: white;
+    width: 75%;
+    height: auto;
+    border-radius: 10px;
+    border: 8px, solid, black;
+    margin: 15px;
+    box-shadow: 10px 10px 0px 8px rgba(0, 0, 0, 0.205);
+}
+.h1div{ 
+    display: block; 
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+#logoimg{
+    border-radius: 50%;
+    border: 10px, solid black;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    margin-top: 0;
+    box-shadow: 1px 1px 0px 8px rgba(0, 0, 0, 0.205);
+}
+div.logodiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+   
+
+}
+.imgrede{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: solid white;
+    background-color: white;
+    margin: 5px;
+    box-shadow: 2px 2px 0px 8px rgba(0, 0, 0, 0.205);
+    
+}
+.imgrede:hover{
+    width: 55px;
+    height: 55px;
+}
+.redediv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+html{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+ 
+}
+body{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(39, 39, 39);
+}
